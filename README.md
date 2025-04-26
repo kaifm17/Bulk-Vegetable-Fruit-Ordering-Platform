@@ -61,11 +61,7 @@ A full-stack web application for ordering fruits and vegetables in bulk, built w
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Admin Access
 
-To access the admin dashboard, use the following credentials:
-- Username: `admin`
-- Password: `password`
 
 ## Database Schema
 
